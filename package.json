@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-coffee": "^2.3.1",
+    "gulp-jade": "^1.0.0",
+    "gulp-minify-html": "^1.0.4",
+    "gulp-sass": "^2.0.4",
+    "gulp-stylus": "^2.0.1",
+    "gulp-yaml": "^0.2.4",
+    "jade": "^1.9.2",
+    "prefiks": "^0.3.3"
+  },
+  "name": "vk-suite",
+  "version": "1.0.0",
+  "description": "A platform to create sites based on vk data model.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kindaro/vk-suite.git"
+  },
+  "author": "Ignat Insarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kindaro/vk-suite/issues"
+  },
+  "homepage": "https://github.com/kindaro/vk-suite"
+}
